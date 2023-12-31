@@ -80,16 +80,3 @@ Designing this comprehensive AirBNB Boston dashboard required:
 - Creating a cohesive narrative by arranging the visualizations in a meaningful flow.
 - Enabling interactive filtering to empower users to analyze deeply.
 This project provided great practice in synthesizing multiple metrics and angles into an insightful visualization dashboard. The data visualization and analysis skills applied can be leveraged for future business intelligence and reporting challenges. Key takeaways include the importance of understanding the data, ideating effective chart types, iterating on designs, maintaining narrative flow, and adding interactivity to engage users.
-## Data 🗄️
-Dataset: BostonAirBnb.csv
-
-The dataset includes detailed information on thousands of AirBNB listings across various Boston neighborhoods scraped directly from the AirBNB website.
-
-The key data fields are:
-
-- Listing URL, ID, name, description.
-- Host details like response time, superhost status, profile info.
-- Location information including neighborhood, latitude, longitude. 📍
-- Property attributes like room type, amenities, price, availability. 🏠
-- Listing metrics such as number of reviews, ratings ⭐
-This comprehensive dataset enables extensive analysis of the Boston AirBNB landscape.
