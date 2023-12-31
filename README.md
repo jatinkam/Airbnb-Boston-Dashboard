@@ -1,5 +1,5 @@
 
-# AirBnB Boston Dashboard
+# AirBnB Boston Dashboard 📊
 
 This dashboard provides an in-depth analysis of AirBNB listings data in Boston to uncover key trends and patterns. The interactive visualizations enable exploration of the data from multiple angles.
 
