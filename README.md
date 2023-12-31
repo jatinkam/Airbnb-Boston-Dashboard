@@ -79,4 +79,5 @@ Designing this comprehensive AirBNB Boston dashboard required:
 - Focusing each chart on highlighting specific insights and trends in the data.
 - Creating a cohesive narrative by arranging the visualizations in a meaningful flow.
 - Enabling interactive filtering to empower users to analyze deeply.
+
 This project provided great practice in synthesizing multiple metrics and angles into an insightful visualization dashboard. The data visualization and analysis skills applied can be leveraged for future business intelligence and reporting challenges. Key takeaways include the importance of understanding the data, ideating effective chart types, iterating on designs, maintaining narrative flow, and adding interactivity to engage users.
