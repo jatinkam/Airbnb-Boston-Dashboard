@@ -15,6 +15,7 @@ The key data fields are:
 - Location information including neighborhood, latitude, longitude. 📍
 - Property attributes like room type, amenities, price, availability. 🏠
 - Listing metrics such as number of reviews, ratings ⭐
+
 This comprehensive dataset enables extensive analysis of the Boston AirBNB landscape.
 ## Visualizations 📊
 The dashboard contains the following visualizations:
